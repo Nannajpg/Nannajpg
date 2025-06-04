@@ -11,7 +11,7 @@
 
 <p align="left">⌨️ I'm currently studying </p>
 <p align="left">🍓 I'm working on small projects </p>
-<p align="left">🧸 and I like styling </p>
+<p align="left">🧸 and I like styling things </p>
 
 ###
 
